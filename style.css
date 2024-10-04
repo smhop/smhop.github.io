@@ -1,0 +1,62 @@
+span {
+    font-size: 35px;
+}
+
+#kanit {
+    font-family: "Kanit", sans-serif;
+}
+
+#oswald {
+    font-family: "Oswald", sans-serif; 
+}
+
+#marker {
+    font-size: 50px;
+    color:#bf0808;
+    font-family: "Permanent Marker", sans-serif;
+}
+
+#abme {
+    font-size: 30px;
+}
+
+.top {
+    padding: 10px;
+    border-style: solid;
+    border-width: 2px 0px 0px 0px;
+    border-color: black;
+}
+
+.bottom {
+    padding: 10px;
+    border-style: solid;
+    border-width: 0px 0px 2px 0px;
+    border-color: black;
+}
+
+.bot {
+    padding: 10px;
+    border-style: solid;
+    border-width: 2px 0px 2px 0px;
+    border-color: black;
+}
+
+a:link {
+    font-size: 25px;
+    text-decoration: none;
+    color:#14b9ff;
+}
+
+a:visited {
+    color:#ff7214;
+}
+
+a:hover {
+    font-size: 30px;
+}
+
+table {
+    position: absolute;
+    padding: 10px 10px 10px 10px;
+    text-align: justify;
+}
